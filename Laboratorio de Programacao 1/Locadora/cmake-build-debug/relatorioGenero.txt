@@ -1,0 +1,6 @@
+Lista de filmes de romance
+Codigo: 4 Titulo: 11 DE SETEMBRO Ano: 2001 Copias: 2 Genero: ROMANCE
+Codigo: 13 Titulo: A ANO EM QUE MEUS PAIS SAIRAM DE FERIAS Ano: 2000 Copias: 3 Genero: ROMANCE
+Codigo: 22 Titulo: A CHACINA DOS CORONEIS Ano: 1999 Copias: 2 Genero: ROMANCE
+Codigo: 31 Titulo: A CRISE NO CANAL DE SUEZ Ano: 1998 Copias: 1 Genero: ROMANCE
+Codigo: 40 Titulo: A FUGA DAS GALINHAS Ano: 2007 Copias: 2 Genero: ROMANCE

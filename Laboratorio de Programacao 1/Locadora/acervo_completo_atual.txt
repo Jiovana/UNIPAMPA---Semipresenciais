@@ -1,0 +1,42 @@
+Acervo completo
+Codigo: 0 Titulo: O DOSSIE DE ODESSA Ano: 1998 Copias: 2 Genero: DRAMA
+Codigo: 1 Titulo: 10 ANOS SEM TANCREDO Ano: 1999 Copias: 1 Genero: DRAMA
+Codigo: 2 Titulo: 100 ANOS DE LUCIO COSTA Ano: 2000 Copias: 1 Genero: DRAMA
+Codigo: 3 Titulo: 11 DE SETEMBRO Ano: 2001 Copias: 2 Genero: ROMANCE
+Codigo: 4 Titulo: 13 DIAS QUE ABALARAM O MUNDO Ano: 2002 Copias: 1 Genero: DRAMA
+Codigo: 5 Titulo: 1492 A CONQUISTA DO PARAISO Ano: 2003 Copias: 3 Genero: DRAMA
+Codigo: 6 Titulo: 15 FILHOS Ano: 2004 Copias: 1 Genero: DRAMA
+Codigo: 7 Titulo: 15 FILHOS  DOCUMENTARIO DE MARIA OLIVEIRA E MARTA Ano: 2005 Copias: 1 Genero: DRAMA
+Codigo: 8 Titulo: 3 DIAS DO CONDOR Ano: 2006 Copias: 2 Genero: DESENHO
+Codigo: 9 Titulo: 68 CONFLITOS DE GERACOES Ano: 2007 Copias: 2 Genero: DRAMA
+Codigo: 10 Titulo: 68 CONFLITOS DE GERACOES Ano: 1998 Copias: 2 Genero: DRAMA
+Codigo: 11 Titulo: A Ano: 1999 Copias: 2 Genero: DRAMA
+Codigo: 12 Titulo: A ANO EM QUE MEUS PAIS SAIRAM DE FERIAS Ano: 2000 Copias: 3 Genero: ROMANCE
+Codigo: 13 Titulo: A ARTE NO III REICH A ARTE DA PROPAGANDA 2 FITAS Ano: 2001 Copias: 1 Genero: DRAMA
+Codigo: 14 Titulo: A BAIA DO ODIO Ano: 2002 Copias: 1 Genero: DRAMA
+Codigo: 15 Titulo: A BATALHA NO CHILE A INSURREICAO DA BURGUESIA Ano: 2003 Copias: 2 Genero: DRAMA
+Codigo: 16 Titulo: A BATALHA NO CHILE O PODER POPULAR Ano: 2004 Copias: 2 Genero: DRAMA
+Codigo: 17 Titulo: A BATALHA NO CHILE O GOLPE DE ESTADO Ano: 2005 Copias: 2 Genero: DESENHO
+Codigo: 18 Titulo: A CAPTURA DO CARRASCO Ano: 2006 Copias: 2 Genero: DRAMA
+Codigo: 19 Titulo: A CASA DOS ESPIRITOS Ano: 2007 Copias: 2 Genero: DRAMA
+Codigo: 20 Titulo: A CASA DOS ESPIRITOS 2 FITAS Ano: 1998 Copias: 2 Genero: DRAMA
+Codigo: 21 Titulo: A CHACINA DOS CORONEIS Ano: 1999 Copias: 2 Genero: ROMANCE
+Codigo: 22 Titulo: A CLASSE OPERARIA VAI AO PARAISO Ano: 2000 Copias: 2 Genero: DRAMA
+Codigo: 23 Titulo: A CONFISSOES DE SCHMIDT Ano: 2001 Copias: 2 Genero: DRAMA
+Codigo: 24 Titulo: A CONSTRUCAO DA LEITURA E DA ESCRITA DO ADULTO Ano: 2002 Copias: 2 Genero: DRAMA
+Codigo: 25 Titulo: A COR DO SEU DESTINO Ano: 2003 Copias: 2 Genero: DRAMA
+Codigo: 26 Titulo: A CORAGEM DE SER Ano: 2004 Copias: 2 Genero: DESENHO
+Codigo: 27 Titulo: A CORPORACAO Ano: 2005 Copias: 2 Genero: DRAMA
+Codigo: 28 Titulo: A CORPORACAO Ano: 2006 Copias: 3 Genero: DRAMA
+Codigo: 29 Titulo: A CRISE DO PLANO REAL Ano: 2007 Copias: 2 Genero: DRAMA
+Codigo: 30 Titulo: A CRISE NO CANAL DE SUEZ Ano: 1998 Copias: 1 Genero: ROMANCE
+Codigo: 31 Titulo: A CULTURA NO BRASIL NA DECADA DE 70 DOC Ano: 1999 Copias: 1 Genero: DRAMA
+Codigo: 32 Titulo: A EPOCA DA INOCENCIA Ano: 2000 Copias: 2 Genero: DRAMA
+Codigo: 33 Titulo: A ERA DO GELO Ano: 2001 Copias: 2 Genero: DRAMA
+Codigo: 34 Titulo: A ESCOLA DAS AMERICAS ARMAS E AVAREZ Ano: 2002 Copias: 1 Genero: DRAMA
+Codigo: 35 Titulo: A EXCECAO A REGRA Ano: 2003 Copias: 2 Genero: DESENHO
+Codigo: 36 Titulo: A EXCENTRICA FAMILIA DE ANTONIA Ano: 2004 Copias: 2 Genero: DRAMA
+Codigo: 37 Titulo: A FRATENIDADE E VERMELHA Ano: 2005 Copias: 2 Genero: DRAMA
+Codigo: 38 Titulo: A FUGA Ano: 2006 Copias: 2 Genero: DRAMA
+Codigo: 39 Titulo: A FUGA DAS GALINHAS Ano: 2007 Copias: 2 Genero: ROMANCE
+Codigo: 40 Titulo: A FUGA DAS GALINHAS 2 FITAS Ano: 1999 Copias: 2 Genero: DRAMA

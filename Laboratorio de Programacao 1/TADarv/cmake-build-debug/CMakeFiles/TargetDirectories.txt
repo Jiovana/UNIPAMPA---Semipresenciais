@@ -1,0 +1,3 @@
+C:/Users/gomes/CLionProjects/TADarv/cmake-build-debug/CMakeFiles/TADarv.dir
+C:/Users/gomes/CLionProjects/TADarv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gomes/CLionProjects/TADarv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

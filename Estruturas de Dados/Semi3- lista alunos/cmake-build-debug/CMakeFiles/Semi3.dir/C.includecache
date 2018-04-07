@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Semi3/Aluno.h
+
+C:/Users/gomes/CLionProjects/Semi3/aluno.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Aluno.h
+C:/Users/gomes/CLionProjects/Semi3/Aluno.h
+
+C:/Users/gomes/CLionProjects/Semi3/main.c
+stdio.h
+-
+stdlib.h
+-
+Aluno.h
+C:/Users/gomes/CLionProjects/Semi3/Aluno.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Semi5-2/fila.c
+stdlib.h
+-
+stdio.h
+-
+fila.h
+C:/Users/gomes/CLionProjects/Semi5-2/fila.h
+
+C:/Users/gomes/CLionProjects/Semi5-2/fila.h
+
+C:/Users/gomes/CLionProjects/Semi5-2/main.c
+stdio.h
+-
+stdlib.h
+-
+fila.h
+C:/Users/gomes/CLionProjects/Semi5-2/fila.h
+

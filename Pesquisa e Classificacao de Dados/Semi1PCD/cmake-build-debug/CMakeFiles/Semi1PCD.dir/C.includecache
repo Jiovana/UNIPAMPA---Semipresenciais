@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Semi1PCD/main.c
+stdio.h
+-
+stdlib.h
+-
+sorts.h
+C:/Users/gomes/CLionProjects/Semi1PCD/sorts.h
+
+C:/Users/gomes/CLionProjects/Semi1PCD/sorts.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+sorts.h
+C:/Users/gomes/CLionProjects/Semi1PCD/sorts.h
+
+C:/Users/gomes/CLionProjects/Semi1PCD/sorts.h
+stdio.h
+-
+

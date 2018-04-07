@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/TADarv/arvore.c
+stdio.h
+-
+stdlib.h
+-
+arvore.h
+C:/Users/gomes/CLionProjects/TADarv/arvore.h
+
+C:/Users/gomes/CLionProjects/TADarv/arvore.h
+
+C:/Users/gomes/CLionProjects/TADarv/main.c
+stdio.h
+-
+stdlib.h
+-
+arvore.h
+C:/Users/gomes/CLionProjects/TADarv/arvore.h
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/RevisaoLP2/main.c
+stdio.h
+-
+stdlib.h
+-
+pilha.h
+C:/Users/gomes/CLionProjects/RevisaoLP2/pilha.h
+string.h
+-
+
+C:/Users/gomes/CLionProjects/RevisaoLP2/pilha.h
+
+C:/Users/gomes/CLionProjects/RevisaoLP2/pilhalunos.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pilha.h
+C:/Users/gomes/CLionProjects/RevisaoLP2/pilha.h
+

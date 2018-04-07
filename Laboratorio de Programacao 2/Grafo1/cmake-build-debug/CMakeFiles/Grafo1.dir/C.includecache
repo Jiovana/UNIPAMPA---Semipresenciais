@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Grafo1/graph.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+graph.h
+C:/Users/gomes/CLionProjects/Grafo1/graph.h
+
+C:/Users/gomes/CLionProjects/Grafo1/graph.h
+
+C:/Users/gomes/CLionProjects/Grafo1/main.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+C:/Users/gomes/CLionProjects/Grafo1/graph.h
+

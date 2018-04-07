@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Locadora/Locadora.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+Locadora.h
+C:/Users/gomes/CLionProjects/Locadora/Locadora.h
+
+C:/Users/gomes/CLionProjects/Locadora/Locadora.h
+
+C:/Users/gomes/CLionProjects/Locadora/main.c
+stdio.h
+-
+stdlib.h
+-
+Locadora.h
+C:/Users/gomes/CLionProjects/Locadora/Locadora.h
+

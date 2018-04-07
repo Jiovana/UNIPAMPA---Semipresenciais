@@ -1,0 +1,3 @@
+C:/Users/gomes/CLionProjects/RevisaoLP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gomes/CLionProjects/RevisaoLP2/cmake-build-debug/CMakeFiles/RevisaoLP2.dir
+C:/Users/gomes/CLionProjects/RevisaoLP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
