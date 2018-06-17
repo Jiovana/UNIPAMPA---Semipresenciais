@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/Semi3PCD/aluno.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+aluno.h
+C:/Users/gomes/CLionProjects/Semi3PCD/aluno.h
+time.h
+-
+
+C:/Users/gomes/CLionProjects/Semi3PCD/aluno.h
+
+C:/Users/gomes/CLionProjects/Semi3PCD/main.c
+stdio.h
+-
+stdlib.h
+-
+aluno.h
+C:/Users/gomes/CLionProjects/Semi3PCD/aluno.h
+

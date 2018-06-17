@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gomes/CLionProjects/HashEncadeamento/hash.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+hash.h
+C:/Users/gomes/CLionProjects/HashEncadeamento/hash.h
+
+C:/Users/gomes/CLionProjects/HashEncadeamento/hash.h
+
+C:/Users/gomes/CLionProjects/HashEncadeamento/main.c
+stdio.h
+-
+stdlib.h
+-
+hash.h
+C:/Users/gomes/CLionProjects/HashEncadeamento/hash.h
+
